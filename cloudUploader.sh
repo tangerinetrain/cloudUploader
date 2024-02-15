@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Testing is successful!"
+echo "Testing is very successful!"
